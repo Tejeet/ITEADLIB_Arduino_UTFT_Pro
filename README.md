@@ -1,5 +1,5 @@
 
-# UTFT_ITEAD
+# UTFT_Pro
 
 ### Introduction
 - The library is modified based on the UTFT library, it supports some new TFT screens from ITEAD.
